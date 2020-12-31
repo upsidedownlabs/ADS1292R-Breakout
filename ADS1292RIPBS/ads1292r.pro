@@ -1,4 +1,4 @@
-update=Wed 30 Dec 2020 11:49:14 PM IST
+update=Thu 31 Dec 2020 03:51:41 PM IST
 version=1
 last_client=kicad
 [general]
@@ -41,7 +41,7 @@ dPairViaGap1=0.25
 SilkLineWidth=0.12
 SilkTextSizeV=0.75
 SilkTextSizeH=0.75
-SilkTextSizeThickness=0.09999999999999999
+SilkTextSizeThickness=0.1875
 SilkTextItalic=0
 SilkTextUpright=1
 CopperLineWidth=0.2
@@ -240,3 +240,13 @@ uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
